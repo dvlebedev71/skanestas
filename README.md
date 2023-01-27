@@ -59,5 +59,7 @@
             logger.info(f"{json.dumps(msg)}")
 
 
-
+5. Запуск 
+Склонируйте данный репозиторий git clone https://github.com/dvlebedev71/skanestas 
+перейтите в каталог Skanestas и запустите docker compose up
 
